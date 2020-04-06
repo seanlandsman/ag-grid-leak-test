@@ -14,7 +14,7 @@
   "author": "Sean Landsman <sean@thelandsmans.com>",
   "license": "MIT",
   "dependencies": {
-    "@ag-grid-community/client-side-row-model": "file:../../dev/ag-grid/latest-clean/community-modules/client-side-row-model/ag-grid-community-client-side-row-model-23.0.2.tgz",
+    "@ag-grid-community/client-side-row-model": "^23.0.0",
     "@ag-grid-community/core": "^23.0.0"
   },
   "devDependencies": {
