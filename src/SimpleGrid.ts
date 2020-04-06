@@ -1,4 +1,4 @@
-import {Grid, GridOptions, ModuleRegistry} from "@ag-grid-community/all-modules";
+import {Grid, GridOptions, ModuleRegistry} from "@ag-grid-community/core";
 import {ClientSideRowModelModule} from "@ag-grid-community/client-side-row-model";
 
 // or, if using Enterprise features
